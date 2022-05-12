@@ -21,3 +21,5 @@ Go to the "GITHUB" tab.
 In the "GitHub repository name or URL" textbox, type `datacamp/workspace-tutorial-python-data-preprocessing-missing-data`.
 
 Click "Create workspace".
+
+<img width="624" alt="image" src="https://user-images.githubusercontent.com/197589/168152860-eeb34f7a-00dd-4289-9efd-78ec86006246.png">
